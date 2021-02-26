@@ -1,0 +1,2 @@
+# StreamingServices
+Using C# and ASP.NET to create a web service. This application compares differences between streaming services. A user using the application will be able to view details of streaming services. Details such as a company’s streaming service membership plans with their prices, their creation dates, or a list of different movies/shows that can be watched on them. Users will also be able to compare them to other companies streaming services that are available within this application.
